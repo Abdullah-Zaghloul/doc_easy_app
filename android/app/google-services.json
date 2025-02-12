@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4484815169",
+    "project_id": "doceasy-app",
+    "storage_bucket": "doceasy-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4484815169:android:f38ea240823b243a3fa9c0",
+        "android_client_info": {
+          "package_name": "com.example.doc_easy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6luvbzy6OJgsS2GPI77FSm-J4xfcxKXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

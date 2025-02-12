@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"doceasy-app","appId":"1:4484815169:android:f38ea240823b243a3fa9c0","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"doceasy-app","configurations":{"android":"1:4484815169:android:f38ea240823b243a3fa9c0","ios":"1:4484815169:ios:15c12601ebdde1063fa9c0"}}}}}}

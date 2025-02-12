@@ -1,3 +1,4 @@
+import 'package:doc_easy_app/core/helpers/constants.dart';
 import 'package:doc_easy_app/core/routing/app_router.dart';
 import 'package:doc_easy_app/core/routing/routs.dart';
 import 'package:doc_easy_app/core/theming/colors_manager.dart';
@@ -14,14 +15,14 @@ class DocEasyApp extends StatelessWidget {
       designSize: const Size(375, 812),
       minTextAdapt: true,
       child: MaterialApp(
-        debugShowCheckedModeBanner: false,
-        title: 'doc_easy_app',
+        title: 'Doc Easy App',
         theme: ThemeData(
           primaryColor: ColorsManager.mainBlue,
           scaffoldBackgroundColor: Colors.white,
         ),
+        debugShowCheckedModeBanner: false,
+        initialRoute: isLoggedInUser ? Routes.homeScreen : Routes.loginScreen,
         onGenerateRoute: appRouter.generateRoute,
-        initialRoute: Routes.onBoardingScreen,
       ),
     );
   }

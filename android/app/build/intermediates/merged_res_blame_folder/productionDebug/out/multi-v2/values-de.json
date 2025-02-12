@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.doc_easy_app-mergeProductionDebugResources-47:/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abdul\\.gradle\\caches\\transforms-3\\68e142ef8359c595e6a0cf974c40276a\\transformed\\preference-1.2.1\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,177,265,348,488,657,737",
+                        "endColumns": "71,87,82,139,168,79,75",
+                        "endOffsets": "172,260,343,483,652,732,808"
+                    },
+                    "to": {
+                        "startLines": "37,38,39,40,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3708,3780,3868,3951,4273,4442,4522",
+                        "endColumns": "71,87,82,139,168,79,75",
+                        "endOffsets": "3775,3863,3946,4086,4437,4517,4593"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abdul\\.gradle\\caches\\transforms-3\\d4c03f8eccf892b96fd6fc8b065707c2\\transformed\\appcompat-1.1.0\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,612,727,805,881,973,1066,1162,1263,1371,1471,1575,1673,1771,1868,1949,2060,2162,2260,2367,2470,2574,2730,2832",
+                        "endColumns": "104,97,111,85,105,114,77,75,91,92,95,100,107,99,103,97,97,96,80,110,101,97,106,102,103,155,101,80",
+                        "endOffsets": "205,303,415,501,607,722,800,876,968,1061,1157,1258,1366,1466,1570,1668,1766,1863,1944,2055,2157,2255,2362,2465,2569,2725,2827,2908"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,308,420,506,612,727,805,881,973,1066,1162,1263,1371,1471,1575,1673,1771,1868,1949,2060,2162,2260,2367,2470,2574,2730,4091",
+                        "endColumns": "104,97,111,85,105,114,77,75,91,92,95,100,107,99,103,97,97,96,80,110,101,97,106,102,103,155,101,80",
+                        "endOffsets": "205,303,415,501,607,722,800,876,968,1061,1157,1258,1366,1466,1570,1668,1766,1863,1944,2055,2157,2255,2362,2465,2569,2725,2827,4167"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abdul\\.gradle\\caches\\transforms-3\\b2884dbf4ee3398b2907745768baeed2\\transformed\\core-1.13.1\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,355,455,563,668,786",
+                        "endColumns": "97,101,99,99,107,104,117,100",
+                        "endOffsets": "148,250,350,450,558,663,781,882"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,42",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "2832,2930,3032,3132,3232,3340,3445,4172",
+                        "endColumns": "97,101,99,99,107,104,117,100",
+                        "endOffsets": "2925,3027,3127,3227,3335,3440,3558,4268"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abdul\\.gradle\\caches\\transforms-3\\bf6e19e94f397b7f6aca85702ae88592\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-de\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "140",
+                        "endOffsets": "335"
+                    },
+                    "to": {
+                        "startLines": "36",
+                        "startColumns": "4",
+                        "startOffsets": "3563",
+                        "endColumns": "144",
+                        "endOffsets": "3703"
+                    }
+                }
+            ]
+        }
+    ]
+}

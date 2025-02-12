@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">4484815169</string>
+    <string name="google_api_key" translatable="false">AIzaSyC6luvbzy6OJgsS2GPI77FSm-J4xfcxKXc</string>
+    <string name="google_app_id" translatable="false">1:4484815169:android:f38ea240823b243a3fa9c0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC6luvbzy6OJgsS2GPI77FSm-J4xfcxKXc</string>
+    <string name="google_storage_bucket" translatable="false">doceasy-app.firebasestorage.app</string>
+    <string name="project_id" translatable="false">doceasy-app</string>
+</resources>
