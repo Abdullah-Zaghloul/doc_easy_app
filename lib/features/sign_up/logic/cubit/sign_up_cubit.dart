@@ -1,4 +1,3 @@
-import 'package:doc_easy_app/core/networking/api_error_model.dart';
 import 'package:doc_easy_app/features/sign_up/data/models/sign_up_request_body.dart';
 import 'package:doc_easy_app/features/sign_up/data/repos/sign_up_repo.dart';
 import 'package:doc_easy_app/features/sign_up/logic/cubit/sign_up_state.dart';

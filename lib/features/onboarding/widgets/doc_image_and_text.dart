@@ -11,15 +11,15 @@ class DocImageAndText extends StatelessWidget {
       children: [
         SvgPicture.asset('assets/svgs/docdoc_logo_low_opacity.svg'),
         Container(
-          foregroundDecoration: BoxDecoration(
+          foregroundDecoration: const BoxDecoration(
             gradient: LinearGradient(
               colors: [
                 Colors.white,
-                Colors.white.withOpacity(0.0),
+                Colors.white,
               ],
               begin: Alignment.bottomCenter,
               end: Alignment.topCenter,
-              stops: const [0.14, 0.4],
+              stops: [0.14, 0.4],
             ),
           ),
           child: Image.asset('assets/images/onboarding_doctor.png'),
